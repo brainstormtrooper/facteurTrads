@@ -8,332 +8,339 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-10-30 07:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-11-10 15:33+0000\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language-Team: Dutch <https://hosted.weblate.org/projects/facteur/"
+"facteur-translations/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.2-dev\n"
 
 #: data/io.github.brainstormtrooper.facteur.desktop.in:4
 #: data/io.github.brainstormtrooper.facteur.appdata.xml.in:4
 msgid "Facteur"
-msgstr ""
+msgstr "Facteur"
 
 #: data/io.github.brainstormtrooper.facteur.desktop.in:6
 msgid "template based emailing app"
-msgstr ""
+msgstr "toepassing voor e-mailsjablonen"
 
 #: data/io.github.brainstormtrooper.facteur.desktop.in:12
 msgid "business;office;productivity;"
-msgstr ""
+msgstr "zakelijk;kantoor;productiviteit;"
 
 #: data/io.github.brainstormtrooper.facteur.appdata.xml.in:5
 msgid "Sends template-based emails to a list of recipients"
-msgstr ""
+msgstr "Verstuur e-mails op basis van sjablonen aan een lijst met ontvangers"
 
 #: data/io.github.brainstormtrooper.facteur.appdata.xml.in:10
 msgid "A template-based emailing app for small business offering:"
-msgstr ""
+msgstr "Een toepassing voor e-mailsjablonen met de volgende kenmerken:"
 
 #: data/io.github.brainstormtrooper.facteur.appdata.xml.in:14
 msgid "Email personalization"
-msgstr ""
+msgstr "Mogelijkheid om sjablonen aan te passen"
 
 #: data/io.github.brainstormtrooper.facteur.appdata.xml.in:15
 msgid "HTML and text emails"
-msgstr ""
+msgstr "Html- en tekste-mails"
 
 #: data/io.github.brainstormtrooper.facteur.appdata.xml.in:16
 msgid "CSV data import"
-msgstr ""
+msgstr "Csv-gegevensimport"
 
 #: data/io.github.brainstormtrooper.facteur.gschema.xml:5
 msgid "Force ipv4"
-msgstr ""
+msgstr "Gebruik van ipv4 afdwingen"
 
 #: data/io.github.brainstormtrooper.facteur.gschema.xml:6
 msgid "Force using only ipv4 address resolution."
-msgstr ""
+msgstr "Gebruik alleen ipv4-adressen."
 
 #: data/io.github.brainstormtrooper.facteur.gschema.xml:13
 msgid "Sending delay"
-msgstr ""
+msgstr "Versturen na"
 
 #: data/io.github.brainstormtrooper.facteur.gschema.xml:14
 msgid "Default wait time in milliseconds between sending emails."
-msgstr ""
+msgstr "De wachttijd (in milliseconden) alvorens e-mails te versturen."
 
 #: data/io.github.brainstormtrooper.facteur.gschema.xml:20
 msgid "Saved connections"
-msgstr ""
+msgstr "Bewaarde verbindingen"
 
 #: data/io.github.brainstormtrooper.facteur.gschema.xml:21
 msgid "List of saved connections (JSON string)."
-msgstr ""
+msgstr "Een lijst met bewaarde verbindingen (json-tekenreeks)."
 
 #: data/contentMain.ui:46
 msgid "Text Content"
-msgstr ""
+msgstr "Tekstuele inhoud"
 
 #: data/contentMain.ui:80
 msgid "Import a template (optional)"
-msgstr ""
+msgstr "Sjabloon importeren (optioneel)"
 
 #: data/contentMain.ui:101
 msgid "Source"
-msgstr ""
+msgstr "Bron"
 
 #: data/contentMain.ui:117
 msgid "Preview"
-msgstr ""
+msgstr "Voorvertoning"
 
 #: data/contentMain.ui:126
 msgid "Html Content"
-msgstr ""
+msgstr "Html-inhoud"
 
 #: data/contentMain.ui:158
 msgid "New "
-msgstr ""
+msgstr "Nieuwe "
 
 #: data/contentMain.ui:165
 msgid "Insert"
-msgstr ""
+msgstr "Invoegen"
 
 #: data/contentMain.ui:175
 msgid "Link"
-msgstr ""
+msgstr "Link"
 
 #: data/contentMain.ui:206
 msgid "Add"
-msgstr ""
+msgstr "Toevoegen"
 
 #: data/contentMain.ui:255 data/resultsMain.ui:44 data/settingsMain.ui:268
 #: src/UI/Modal.js:67
 msgid "Save"
-msgstr ""
+msgstr "Opslaan"
 
 #: data/mailingMain.ui:22
 msgid "Recipients"
-msgstr ""
+msgstr "Ontvangers"
 
 #: data/mailingMain.ui:54
 msgid "Import recipients"
-msgstr ""
+msgstr "Ontvangers importeren"
 
 #: data/resultsMain.ui:39
 msgid "Save send report"
-msgstr ""
+msgstr "Verzendverslag bewaren"
 
 #: data/resultsMain.ui:111
 msgid "Not Sent Yet"
-msgstr ""
+msgstr "Nog niet verstuurd"
 
 #: data/resultsMain.ui:116
 msgid "Send"
-msgstr ""
+msgstr "Versturen"
 
 #: data/settingsApp.ui:25 data/settingsMain.ui:24
 msgid "Connections"
-msgstr ""
+msgstr "Verbindingen"
 
 #: data/settingsApp.ui:38 data/settingsMain.ui:35
 msgid "Select a connection"
-msgstr ""
+msgstr "Kies een verbinding"
 
 #: data/settingsApp.ui:65 data/settingsMain.ui:57
 msgid "New"
-msgstr ""
+msgstr "Nieuw"
 
 #: data/settingsApp.ui:76
 msgid "Export"
-msgstr ""
+msgstr "Exporteren"
 
 #: data/settingsApp.ui:89
 msgid "Edit"
-msgstr ""
+msgstr "Bewerken"
 
 #: data/settingsApp.ui:101
 msgid "Delete"
-msgstr ""
+msgstr "Verwijderen"
 
 #: data/settingsApp.ui:117
 msgid "Export Passwords"
-msgstr ""
+msgstr "Wachtwoorden exporteren"
 
 #: data/settingsApp.ui:127
 msgid "Export All"
-msgstr ""
+msgstr "Alles exporteren"
 
 #: data/settingsApp.ui:137
 msgid "Export Selected"
-msgstr ""
+msgstr "Selectie exporteren"
 
 #: data/settingsApp.ui:165
 msgid "Really Delete Connection"
-msgstr ""
+msgstr "Verbinding verwijderen"
 
 #: data/settingsConx.ui:45
 msgid "Import a connection (optional)"
-msgstr ""
+msgstr "Verbinding importeren (optioneel)"
 
 #: data/settingsConx.ui:64
 msgid "Connection Name*"
-msgstr ""
+msgstr "Verbindingsnaam*"
 
 #: data/settingsConx.ui:69
 msgid "Required unique name for this connection"
-msgstr ""
+msgstr "De verplichte, unieke naam van deze verbinding"
 
 #: data/settingsConx.ui:93
 msgid "Connection From*"
-msgstr ""
+msgstr "Verbinding vanaf*"
 
 #: data/settingsConx.ui:98
 msgid "Required default from e-mail address"
-msgstr ""
+msgstr "Het verplichte e-mailadres van de afzender"
 
 #: data/settingsConx.ui:123
 msgid "Connection Host Server*"
-msgstr ""
+msgstr "Verbindingshost*"
 
 #: data/settingsConx.ui:128
 msgid "Required SMTP server address"
-msgstr ""
+msgstr "Het verplichte smtp-serveradres"
 
 #: data/settingsConx.ui:153
 msgid "Connection User*"
-msgstr ""
+msgstr "Gebruikersnaam*"
 
 #: data/settingsConx.ui:158
 msgid "Required SMTP user name"
-msgstr ""
+msgstr "De verplichte smtp-gebruikersnaam"
 
 #: data/settingsConx.ui:182
 msgid "Connection Password*"
-msgstr ""
+msgstr "Wachtwoord*"
 
 #: data/settingsConx.ui:190
 msgid "Required SMTP password"
-msgstr ""
+msgstr "Het verplichte smtp-wachtwoord"
 
 #: data/settingsConx.ui:234
 msgid "Connection Delay (milliseconds)"
-msgstr ""
+msgstr "Verbindingsvertraging (in milliseconden)"
 
 #: data/settingsConx.ui:264
 msgid "Connection Headers"
-msgstr ""
+msgstr "Verbindingskoppen"
 
 #: data/settingsConx.ui:269
 msgid "Optional headers to send with the requests to the SMTP server"
 msgstr ""
+"De koppen die dienen te worden verstuurd bij aanvragen aan de smtp-server "
+"(optioneel)"
 
 #: data/settingsConx.ui:289
 msgid "Optional whether to force IPv4 connection"
-msgstr ""
+msgstr "Dwing een ipv4-verbinding af (optioneel)"
 
 #: data/settingsConx.ui:295
 msgid "Force IPv4"
-msgstr ""
+msgstr "Ipv4 afdwingen"
 
 #: data/settingsMain.ui:87
 msgid "Mailing Subject*"
-msgstr ""
+msgstr "E-mailonderwerp*"
 
 #: data/settingsMain.ui:92
 msgid "Required mailing subject"
-msgstr ""
+msgstr "Het verplichte onderwerp van de e-mail"
 
 #: data/settingsMain.ui:117
 msgid "From Address"
-msgstr ""
+msgstr "Van-adres"
 
 #: data/settingsMain.ui:122
 msgid "Optional override to the connection sender e-mail address"
-msgstr ""
+msgstr "Dwing het gebruik van een andere afzender af (optioneel)"
 
 #: data/settingsMain.ui:147
 msgid "From Name"
-msgstr ""
+msgstr "Van-naam"
 
 #: data/settingsMain.ui:152
 msgid "Optional name to use with the sender e-mail address"
-msgstr ""
+msgstr "Dwing het gebruik van een andere naam af (optioneel)"
 
 #: data/settingsMain.ui:177
 msgid "Reply To"
-msgstr ""
+msgstr "Antwoord aan"
 
 #: data/settingsMain.ui:182
 msgid "Optional reply-to email address"
-msgstr ""
+msgstr "Het antwoordadres (optioneel)"
 
 #: data/settingsMain.ui:207
 msgid "CC To"
-msgstr ""
+msgstr "Cc aan"
 
 #: data/settingsMain.ui:212
 msgid "Optional CC email address"
-msgstr ""
+msgstr "Het cc-adres (optioneel)"
 
 #: data/settingsMain.ui:237
 msgid "BCC To"
-msgstr ""
+msgstr "Bcc aan"
 
 #: data/settingsMain.ui:242
 msgid "Optional BCC email address"
-msgstr ""
+msgstr "Het bcc-adres (optioneel)"
 
 #: data/widgetAttachment.ui:65
 msgid "Is inline"
-msgstr ""
+msgstr "Ingevoegd"
 
 #: src/object/List.js:74
 msgid "Mailing lists are limited to 500 recipients."
-msgstr ""
+msgstr "Mailinglijsten kennen een maximum van 500 ontvangers."
 
 #: src/object/Template.js:39
 msgid "Failed to iterate over rows."
-msgstr ""
+msgstr "Het opdelen in rijen is mislukt."
 
 #: src/object/Template.js:52 src/object/Template.js:71
 msgid "Cannot attach file greater than 20MB"
-msgstr ""
+msgstr "Bestanden mogen niet groter zijn dan 20MB"
 
 #: src/UI/Contents.js:195 src/UI/Contents.js:247
 msgid "Your mailing exceeds 20MB and may not be received by all reipients."
 msgstr ""
+"Uw e-mail is groter dan 20MB en kan mogelijk niet door alle personen "
+"ontvangen worden."
 
 #: src/UI/Contents.js:220 src/UI/Contents.js:224
 msgid "Template is not a valid utf8 text file."
-msgstr ""
+msgstr "Het sjabloon is geen geldig utf8-tekstbestand."
 
 #: src/UI/Mailing.js:86
 msgid "Select A Mailing List"
-msgstr ""
+msgstr "Kies een mailinglijst"
 
 #: src/UI/Mailing.js:117
 msgid "Error importing file. Not a valid mailing list"
-msgstr ""
+msgstr "Het bestand kan niet worden geïmporteerd: ongeldige mailinglijst"
 
 #: src/UI/Mailing.js:133
 msgid "No data"
-msgstr ""
+msgstr "Geen gegevens"
 
 #: src/UI/Menubar.js:113
 msgid "Select A Mailing"
-msgstr ""
+msgstr "Kies een e-mail"
 
 #: src/UI/Modal.js:75
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleren"
 
 #: src/UI/Modal.js:138
 msgid "Application for sending template based emails"
-msgstr ""
+msgstr "Een toepassing voor het versturen van e-mails op basis van sjablonen"
 
 #: src/UI/Results.js:50
 msgid "Not yet sent"
-msgstr ""
+msgstr "Nog niet verstuurd"
