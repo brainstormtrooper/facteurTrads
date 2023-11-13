@@ -8,332 +8,339 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-10-30 07:06+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-11-15 00:06+0000\n"
+"Last-Translator: ovari <ovari123@zoho.com>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/facteur/"
+"facteur-translations/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.2-dev\n"
 
 #: data/io.github.brainstormtrooper.facteur.desktop.in:4
 #: data/io.github.brainstormtrooper.facteur.appdata.xml.in:4
 msgid "Facteur"
-msgstr ""
+msgstr "Postás"
 
 #: data/io.github.brainstormtrooper.facteur.desktop.in:6
 msgid "template based emailing app"
-msgstr ""
+msgstr "Sablon alapú levelező alkalmazás"
 
 #: data/io.github.brainstormtrooper.facteur.desktop.in:12
 msgid "business;office;productivity;"
-msgstr ""
+msgstr "üzlet;iroda;termelékenység;"
 
 #: data/io.github.brainstormtrooper.facteur.appdata.xml.in:5
 msgid "Sends template-based emails to a list of recipients"
-msgstr ""
+msgstr "Sablon alapú levelek küldése a címzettek listájának"
 
 #: data/io.github.brainstormtrooper.facteur.appdata.xml.in:10
 msgid "A template-based emailing app for small business offering:"
-msgstr ""
+msgstr "Sablon alapú levelező alkalmazás kisvállalkozások számára:"
 
 #: data/io.github.brainstormtrooper.facteur.appdata.xml.in:14
 msgid "Email personalization"
-msgstr ""
+msgstr "Levél személyre szabása"
 
 #: data/io.github.brainstormtrooper.facteur.appdata.xml.in:15
 msgid "HTML and text emails"
-msgstr ""
+msgstr "HTML és szöveges e-mailek"
 
 #: data/io.github.brainstormtrooper.facteur.appdata.xml.in:16
 msgid "CSV data import"
-msgstr ""
+msgstr "CSV-adatok importálása"
 
 #: data/io.github.brainstormtrooper.facteur.gschema.xml:5
 msgid "Force ipv4"
-msgstr ""
+msgstr "IPv4 kényszerítése"
 
 #: data/io.github.brainstormtrooper.facteur.gschema.xml:6
 msgid "Force using only ipv4 address resolution."
-msgstr ""
+msgstr "Csak IPv4-címfelbontás kényszerítése."
 
 #: data/io.github.brainstormtrooper.facteur.gschema.xml:13
 msgid "Sending delay"
-msgstr ""
+msgstr "Küldési késleltetés"
 
 #: data/io.github.brainstormtrooper.facteur.gschema.xml:14
 msgid "Default wait time in milliseconds between sending emails."
 msgstr ""
+"Alapértelmezett várakozási idő ezredmásodpercben a levelek küldése között."
 
 #: data/io.github.brainstormtrooper.facteur.gschema.xml:20
 msgid "Saved connections"
-msgstr ""
+msgstr "Mentett kapcsolatok"
 
 #: data/io.github.brainstormtrooper.facteur.gschema.xml:21
 msgid "List of saved connections (JSON string)."
-msgstr ""
+msgstr "Mentett kapcsolatok listája (JSON-karakterlánc)."
 
 #: data/contentMain.ui:46
 msgid "Text Content"
-msgstr ""
+msgstr "Szövegtartalom"
 
 #: data/contentMain.ui:80
 msgid "Import a template (optional)"
-msgstr ""
+msgstr "Sablon importálása (nem kötelező)"
 
 #: data/contentMain.ui:101
 msgid "Source"
-msgstr ""
+msgstr "Forrás"
 
 #: data/contentMain.ui:117
 msgid "Preview"
-msgstr ""
+msgstr "Előnézet"
 
 #: data/contentMain.ui:126
 msgid "Html Content"
-msgstr ""
+msgstr "HTML-tartalom"
 
 #: data/contentMain.ui:158
 msgid "New "
-msgstr ""
+msgstr "Új "
 
 #: data/contentMain.ui:165
 msgid "Insert"
-msgstr ""
+msgstr "Beszúrás"
 
 #: data/contentMain.ui:175
 msgid "Link"
-msgstr ""
+msgstr "Hivatkozás"
 
 #: data/contentMain.ui:206
 msgid "Add"
-msgstr ""
+msgstr "Hozzáadás"
 
 #: data/contentMain.ui:255 data/resultsMain.ui:44 data/settingsMain.ui:268
 #: src/UI/Modal.js:67
 msgid "Save"
-msgstr ""
+msgstr "Mentés"
 
 #: data/mailingMain.ui:22
 msgid "Recipients"
-msgstr ""
+msgstr "Címzettek"
 
 #: data/mailingMain.ui:54
 msgid "Import recipients"
-msgstr ""
+msgstr "Címzettek importálása"
 
 #: data/resultsMain.ui:39
 msgid "Save send report"
-msgstr ""
+msgstr "Küldés jelentésének mentése"
 
 #: data/resultsMain.ui:111
 msgid "Not Sent Yet"
-msgstr ""
+msgstr "Még nincs elküldve"
 
 #: data/resultsMain.ui:116
 msgid "Send"
-msgstr ""
+msgstr "Küldés"
 
 #: data/settingsApp.ui:25 data/settingsMain.ui:24
 msgid "Connections"
-msgstr ""
+msgstr "Csatlakozások"
 
 #: data/settingsApp.ui:38 data/settingsMain.ui:35
 msgid "Select a connection"
-msgstr ""
+msgstr "Csatlakozás kijelölése"
 
 #: data/settingsApp.ui:65 data/settingsMain.ui:57
 msgid "New"
-msgstr ""
+msgstr "Új"
 
 #: data/settingsApp.ui:76
 msgid "Export"
-msgstr ""
+msgstr "Exportálás"
 
 #: data/settingsApp.ui:89
 msgid "Edit"
-msgstr ""
+msgstr "Szerkesztés"
 
 #: data/settingsApp.ui:101
 msgid "Delete"
-msgstr ""
+msgstr "Törlés"
 
 #: data/settingsApp.ui:117
 msgid "Export Passwords"
-msgstr ""
+msgstr "Jelszavak exportálása"
 
 #: data/settingsApp.ui:127
 msgid "Export All"
-msgstr ""
+msgstr "Összes exportálása"
 
 #: data/settingsApp.ui:137
 msgid "Export Selected"
-msgstr ""
+msgstr "Kijelölt exportálása"
 
 #: data/settingsApp.ui:165
 msgid "Really Delete Connection"
-msgstr ""
+msgstr "Tényleg törölje a csatlakozást"
 
 #: data/settingsConx.ui:45
 msgid "Import a connection (optional)"
-msgstr ""
+msgstr "Csatlakozás importálása (nem kötelező)"
 
 #: data/settingsConx.ui:64
 msgid "Connection Name*"
-msgstr ""
+msgstr "Csatlakozás neve*"
 
 #: data/settingsConx.ui:69
 msgid "Required unique name for this connection"
-msgstr ""
+msgstr "Egyedi név ehhez a csatlakozáshoz (kötelező)"
 
 #: data/settingsConx.ui:93
 msgid "Connection From*"
-msgstr ""
+msgstr "Csatlakozás innen*"
 
 #: data/settingsConx.ui:98
 msgid "Required default from e-mail address"
-msgstr ""
+msgstr "Alapértelmezett feladó e-mail-címe (kötelező)"
 
 #: data/settingsConx.ui:123
 msgid "Connection Host Server*"
-msgstr ""
+msgstr "Csatlakozási gazdakiszolgáló*"
 
 #: data/settingsConx.ui:128
 msgid "Required SMTP server address"
-msgstr ""
+msgstr "SMTP-kiszolgálócím (kötelező)"
 
 #: data/settingsConx.ui:153
 msgid "Connection User*"
-msgstr ""
+msgstr "Csatlakozás felhasználó*"
 
 #: data/settingsConx.ui:158
 msgid "Required SMTP user name"
-msgstr ""
+msgstr "SMTP-felhasználónév (kötelező)"
 
 #: data/settingsConx.ui:182
 msgid "Connection Password*"
-msgstr ""
+msgstr "Csatlakozási jelszó*"
 
 #: data/settingsConx.ui:190
 msgid "Required SMTP password"
-msgstr ""
+msgstr "SMTP-jelszó (kötelező)"
 
 #: data/settingsConx.ui:234
 msgid "Connection Delay (milliseconds)"
-msgstr ""
+msgstr "Csatlakozási késleltetés (ezredmásodperc)"
 
 #: data/settingsConx.ui:264
 msgid "Connection Headers"
-msgstr ""
+msgstr "Csatlakozási fejlécek"
 
 #: data/settingsConx.ui:269
 msgid "Optional headers to send with the requests to the SMTP server"
 msgstr ""
+"Fejlécek elküldése az SMTP-kiszolgálónak a kérésekkel együtt (nem kötelező)"
 
 #: data/settingsConx.ui:289
 msgid "Optional whether to force IPv4 connection"
-msgstr ""
+msgstr "IPv4-csatlakozás kényszerítése (nem kötelező)"
 
 #: data/settingsConx.ui:295
 msgid "Force IPv4"
-msgstr ""
+msgstr "IPv4 kényszerítése"
 
 #: data/settingsMain.ui:87
 msgid "Mailing Subject*"
-msgstr ""
+msgstr "Levelezési tárgya*"
 
 #: data/settingsMain.ui:92
 msgid "Required mailing subject"
-msgstr ""
+msgstr "Levelezési tárgya (kötelező)"
 
 #: data/settingsMain.ui:117
 msgid "From Address"
-msgstr ""
+msgstr "Feladó címe"
 
 #: data/settingsMain.ui:122
 msgid "Optional override to the connection sender e-mail address"
-msgstr ""
+msgstr "Feladó e-mail-cím csatlakozásának felülbírálása (nem kötelező)"
 
 #: data/settingsMain.ui:147
 msgid "From Name"
-msgstr ""
+msgstr "Feladó néve"
 
 #: data/settingsMain.ui:152
 msgid "Optional name to use with the sender e-mail address"
-msgstr ""
+msgstr "Feladó megjelenített neve (nem kötelező)"
 
 #: data/settingsMain.ui:177
 msgid "Reply To"
-msgstr ""
+msgstr "Válasz erre"
 
 #: data/settingsMain.ui:182
 msgid "Optional reply-to email address"
-msgstr ""
+msgstr "Válasz erre e-mail-címre (nem kötelező)"
 
 #: data/settingsMain.ui:207
 msgid "CC To"
-msgstr ""
+msgstr "Másolat"
 
 #: data/settingsMain.ui:212
 msgid "Optional CC email address"
-msgstr ""
+msgstr "Másolat e-mail-címe (nem kötelező)"
 
 #: data/settingsMain.ui:237
 msgid "BCC To"
-msgstr ""
+msgstr "Rejtett másolat"
 
 #: data/settingsMain.ui:242
 msgid "Optional BCC email address"
-msgstr ""
+msgstr "Rejtett másolat e-mail-címe (nem kötelező)"
 
 #: data/widgetAttachment.ui:65
 msgid "Is inline"
-msgstr ""
+msgstr "Beágyazva"
 
 #: src/object/List.js:74
 msgid "Mailing lists are limited to 500 recipients."
-msgstr ""
+msgstr "A levelezőlisták 500 címzettre korlátozódnak."
 
 #: src/object/Template.js:39
 msgid "Failed to iterate over rows."
-msgstr ""
+msgstr "Nem sikerült ismételni a sorokat."
 
 #: src/object/Template.js:52 src/object/Template.js:71
 msgid "Cannot attach file greater than 20MB"
-msgstr ""
+msgstr "20 MB-nál nagyobb fájlok nem csatolhatók"
 
 #: src/UI/Contents.js:195 src/UI/Contents.js:247
 msgid "Your mailing exceeds 20MB and may not be received by all reipients."
 msgstr ""
+"Levelezése meghaladja a 20 MB-ot, és előfordulhat, hogy nem minden címzett "
+"kapja meg."
 
 #: src/UI/Contents.js:220 src/UI/Contents.js:224
 msgid "Template is not a valid utf8 text file."
-msgstr ""
+msgstr "Sablon nem érvényes UTF-8 szövegfájl."
 
 #: src/UI/Mailing.js:86
 msgid "Select A Mailing List"
-msgstr ""
+msgstr "Levelezőlista kijelölése"
 
 #: src/UI/Mailing.js:117
 msgid "Error importing file. Not a valid mailing list"
-msgstr ""
+msgstr "Hiba történt a fájl importálásakor. Érvénytelen levelezőlista"
 
 #: src/UI/Mailing.js:133
 msgid "No data"
-msgstr ""
+msgstr "Nincs adat"
 
 #: src/UI/Menubar.js:113
 msgid "Select A Mailing"
-msgstr ""
+msgstr "Levelezőlista kijelölése"
 
 #: src/UI/Modal.js:75
 msgid "Cancel"
-msgstr ""
+msgstr "Mégsem"
 
 #: src/UI/Modal.js:138
 msgid "Application for sending template based emails"
-msgstr ""
+msgstr "Alkalmazás sablon alapú e-mailek küldésére"
 
 #: src/UI/Results.js:50
 msgid "Not yet sent"
-msgstr ""
+msgstr "Még nincs elküldve"
