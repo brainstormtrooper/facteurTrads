@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-10-30 07:06+0100\n"
-"PO-Revision-Date: 2023-11-15 00:06+0000\n"
+"PO-Revision-Date: 2023-11-20 05:10+0000\n"
 "Last-Translator: ovari <ovari123@zoho.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/facteur/"
 "facteur-translations/hu/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2-dev\n"
+"X-Generator: Weblate 5.2\n"
 
 #: data/io.github.brainstormtrooper.facteur.desktop.in:4
 #: data/io.github.brainstormtrooper.facteur.appdata.xml.in:4
@@ -176,7 +176,7 @@ msgstr "Kijelölt exportálása"
 
 #: data/settingsApp.ui:165
 msgid "Really Delete Connection"
-msgstr "Tényleg törölje a csatlakozást"
+msgstr "Tényleg csatlakozás törlése"
 
 #: data/settingsConx.ui:45
 msgid "Import a connection (optional)"
@@ -331,7 +331,7 @@ msgstr "Nincs adat"
 
 #: src/UI/Menubar.js:113
 msgid "Select A Mailing"
-msgstr "Levelezőlista kijelölése"
+msgstr "Levélkampány kijelölése"
 
 #: src/UI/Modal.js:75
 msgid "Cancel"
